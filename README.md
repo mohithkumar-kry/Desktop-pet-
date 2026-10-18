@@ -15,7 +15,9 @@ This is itch.io link [Download  ]https://mohithkumar-kry.itch.io/wooper-pet
 # FEATURES:
 - Can sleep in ur desktop
 - Can eat
-- Can be blasted..?
+- Can be thrown..
+- Can be jealous... 
+- Can be blasted...?
 
 # How it works?
 
